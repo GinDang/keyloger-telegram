@@ -11,29 +11,29 @@ By using this software, you automatically agree to the above.
 ***
 
 # 🔱 Data extraction:
-- [x] AntiAnalysis (VirtualBox, SandBox, Debugger, VirusTotal, Any.Run)
-- [x] Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)
-- [x] Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)
-- [x] Firefox based browsers (db files, cookies, history, bookmarks)
-- [x] Internet explorer/Edge (passwords)
-- [x] Saved wifi networks & scan networks around device (SSID, BSSID)
-- [x] File grabber (Documents, Images, Source codes, Databases, USB)
-- [x] Detect banking & cryptocurrency services in browsers
-- [x] Steam, Uplay, Battle.Net, Minecraft session
-- [x] Install keylogger & clipper
-- [x] Desktop & Webcam screenshot
-- [x] ProtonVPN, OpenVPN, NordVPN
-- [x] Cryptocurrency Wallets
-- [x] Directories structure
-- [x] Telegram sessions
-- [x] Outlook accounts
-- [x] Pidgin accounts
-- [x] Skype session
-- [x] Discord tokens
-- [x] Filezilla hosts
-- [x] Process list
-- [x] Product key
-- [x] Autorun module
+- Chống phân tích (VirtualBox, SandBox, Debugger, VirusTotal, Any.Run)
+- Nhận thông tin hệ thống (Phiên bản, CPU, GPU, RAM, IP, BSSID, Vị trí, Số liệu màn hình, Ứng dụng đã cài đặt)
+- Trình duyệt dựa trên Chromium (mật khẩu, thẻ tín dụng, cookie, lịch sử, tự động điền, dấu trang)
+- Trình duyệt dựa trên Firefox (tệp db, cookie, lịch sử, dấu trang)
+- Internet explorer/Edge (mật khẩu)
+- Mạng wifi đã lưu & mạng quét xung quanh thiết bị (SSID, BSSID)
+- Trình lấy tệp (Tài liệu, Hình ảnh, Mã nguồn, Cơ sở dữ liệu, USB)
+- Phát hiện dịch vụ ngân hàng và tiền điện tử trong trình duyệt
+- Phiên Steam, Uplay, Battle.Net, Minecraft
+- Cài đặt keylogger & clipper
+- Ảnh chụp màn hình Desktop & Webcam
+- ProtonVPN, OpenVPN, NordVPN
+- Ví tiền điện tử
+- cấu trúc thư mục
+- phiên điện tín
+- tài khoản Outlook
+- Tài khoản Pidgin
+- phiên Skype
+- mã thông báo bất hòa
+- Máy chủ Filezilla
+- danh sách quy trình
+- khóa sản phẩm
+- mô-đun tự chạy
 
 ***
 
