@@ -2,15 +2,12 @@
 
 ***
 
-# :construction: Disclaimer
-I, the creator, am not responsible for any actions, and or damages, caused by this software.
-You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only.
-This software's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use.
-By using this software, you automatically agree to the above.
+# :xây dựng: Miễn trừ trách nhiệm
+Tôi, người sáng tạo, không chịu trách nhiệm về bất kỳ hành động hoặc thiệt hại nào do phần mềm này gây ra. Bạn chịu hoàn toàn trách nhiệm về hành động của mình và thừa nhận rằng phần mềm này chỉ được tạo ra cho mục đích giáo dục. Mục đích chính của phần mềm này là KHÔNG được sử dụng cho mục đích xấu hoặc trên bất kỳ hệ thống nào mà bạn không sở hữu hoặc có quyền sử dụng. Bằng cách sử dụng phần mềm này, bạn tự động đồng ý với những điều trên.
 
 ***
 
-# 🔱 Data extraction:
+# 🔱 Khai thác dữ liệu:
 - Chống phân tích (VirtualBox, SandBox, Debugger, VirusTotal, Any.Run)
 - Nhận thông tin hệ thống (Phiên bản, CPU, GPU, RAM, IP, BSSID, Vị trí, Số liệu màn hình, Ứng dụng đã cài đặt)
 - Trình duyệt dựa trên Chromium (mật khẩu, thẻ tín dụng, cookie, lịch sử, tự động điền, dấu trang)
@@ -37,8 +34,8 @@ By using this software, you automatically agree to the above.
 
 ***
 
-# :fire: Features:
-> These functions will become available in the builder only if you have autorun enabled.
+# 📁: Tính năng:
+> Các chức năng này sẽ chỉ khả dụng trong trình tạo nếu bạn đã bật tự động chạy.
 * **:musical_keyboard: Keylogger:**
   * The keylogger will turn on if the user is texting in the chat or using the bank's website.
 * **:clipboard: Clipper:**
