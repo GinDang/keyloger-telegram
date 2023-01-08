@@ -2,7 +2,7 @@
 
 ***
 
-# :xây dựng: Miễn trừ trách nhiệm
+# 🏗️: Miễn trừ trách nhiệm
 Tôi, người sáng tạo, không chịu trách nhiệm về bất kỳ hành động hoặc thiệt hại nào do phần mềm này gây ra. Bạn chịu hoàn toàn trách nhiệm về hành động của mình và thừa nhận rằng phần mềm này chỉ được tạo ra cho mục đích giáo dục. Mục đích chính của phần mềm này là KHÔNG được sử dụng cho mục đích xấu hoặc trên bất kỳ hệ thống nào mà bạn không sở hữu hoặc có quyền sử dụng. Bằng cách sử dụng phần mềm này, bạn tự động đồng ý với những điều trên.
 
 ***
@@ -37,12 +37,11 @@ Tôi, người sáng tạo, không chịu trách nhiệm về bất kỳ hành �
 # 📁: Tính năng:
 > Các chức năng này sẽ chỉ khả dụng trong trình tạo nếu bạn đã bật tự động chạy.
 * **:musical_keyboard: Keylogger:**
-  * The keylogger will turn on if the user is texting in the chat or using the bank's website.
+  * Keylogger sẽ bật nếu người dùng đang nhắn tin trong cuộc trò chuyện hoặc sử dụng trang web của ngân hàng.
 * **:clipboard: Clipper:**
-  * Clipper turns on and replaces crypto wallet addresses in the clipboard when a user makes a transaction.
+  * Clipper bật và thay thế các địa chỉ ví tiền điện tử trong khay nhớ tạm khi người dùng thực hiện giao dịch.
 * **:camera: Webcam screenshots:**
-  * Webcam screenshots will be taken if the user is watching something obscene on the Internet.
-
+  * Ảnh chụp màn hình webcam sẽ được chụp nếu người dùng đang xem nội dung khiêu dâm trên Internet.
 ***
 
 # :hammer: Builder:
@@ -54,7 +53,7 @@ Tôi, người sáng tạo, không chịu trách nhiệm về bất kỳ hành �
   <img src="Images/Builder.jpg">
 </p>
 
-## :robot: [Download compiled builder and source code](https://github.com/LimerBoy/StormKitty/releases)
+## :robot: [discord hỗ trợ ](https://discord.gg/z2k44VxXqe)
 
 ***
 
