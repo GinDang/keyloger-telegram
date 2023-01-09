@@ -45,9 +45,9 @@ Tôi, người sáng tạo, không chịu trách nhiệm về bất kỳ hành �
 ***
 
 # :hammer: Builder:
-* Go to the [@BotFather](https://t.me/BotFather) bot and create your own bot. You need to save token and bot name. 
-* Now you need to get your chat id. To do this, go to the next bot [@chatid_echo_bot](https://t.me/chatid_echo_bot) and save the id.  
-* Insert this data in builder console
+* Truy cập bot [@BotFather](https://t.me/BotFather) và tạo bot của riêng bạn. Bạn cần lưu mã thông báo và tên bot.
+* Bây giờ bạn cần lấy id trò chuyện của mình. Để thực hiện việc này, hãy chuyển đến bot tiếp theo [@chatid_echo_bot](https://t.me/chatid_echo_bot) và lưu id.
+* Chèn dữ liệu này vào bảng điều khiển trình tạo
 
 <p align="center">
   <img src="Images/Builder.jpg">
