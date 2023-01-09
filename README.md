@@ -53,7 +53,7 @@ Tôi, người sáng tạo, không chịu trách nhiệm về bất kỳ hành �
   <img src="Images/Builder.jpg">
 </p>
 
-## :robot: [discord hỗ trợ ](https://discord.gg/z2k44VxXqe)
+## :robot: [telegram hỗ  ](https://t.me/+nrcKniCAH_M2YmVl)
 
 ***
 
