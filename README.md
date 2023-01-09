@@ -71,5 +71,5 @@ Tôi, người sáng tạo, không chịu trách nhiệm về bất kỳ hành �
 
 ***
 
-# :purple_heart: Thanks for the development help:
+# :purple_heart: telegram bot hỗ :
 * [@nhattb](https://t.me/nhattb)
